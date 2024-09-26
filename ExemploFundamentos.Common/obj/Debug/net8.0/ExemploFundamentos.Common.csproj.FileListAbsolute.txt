@@ -1,0 +1,11 @@
+/home/israel/Development/exemploFundamentos/ExemploFundamentos.Common/bin/Debug/net8.0/ExemploFundamentos.Common.deps.json
+/home/israel/Development/exemploFundamentos/ExemploFundamentos.Common/bin/Debug/net8.0/ExemploFundamentos.Common.dll
+/home/israel/Development/exemploFundamentos/ExemploFundamentos.Common/bin/Debug/net8.0/ExemploFundamentos.Common.pdb
+/home/israel/Development/exemploFundamentos/ExemploFundamentos.Common/obj/Debug/net8.0/ExemploFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/israel/Development/exemploFundamentos/ExemploFundamentos.Common/obj/Debug/net8.0/ExemploFundamentos.Common.AssemblyInfoInputs.cache
+/home/israel/Development/exemploFundamentos/ExemploFundamentos.Common/obj/Debug/net8.0/ExemploFundamentos.Common.AssemblyInfo.cs
+/home/israel/Development/exemploFundamentos/ExemploFundamentos.Common/obj/Debug/net8.0/ExemploFundamentos.Common.csproj.CoreCompileInputs.cache
+/home/israel/Development/exemploFundamentos/ExemploFundamentos.Common/obj/Debug/net8.0/ExemploFundamentos.Common.dll
+/home/israel/Development/exemploFundamentos/ExemploFundamentos.Common/obj/Debug/net8.0/refint/ExemploFundamentos.Common.dll
+/home/israel/Development/exemploFundamentos/ExemploFundamentos.Common/obj/Debug/net8.0/ExemploFundamentos.Common.pdb
+/home/israel/Development/exemploFundamentos/ExemploFundamentos.Common/obj/Debug/net8.0/ref/ExemploFundamentos.Common.dll
